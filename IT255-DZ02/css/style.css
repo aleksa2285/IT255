@@ -1,0 +1,128 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+#right{
+
+    background: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhjhY-7Qmd2gB7SxxfwzeD0XzX3F8i3rUYfWjqCkmpf2J0DwUFlg");
+}
+#left{
+
+    background: url("https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2016/03/coraliebickfordsmith_foxandstar1.jpg?w=680");
+
+}
+#slika{
+
+    margin-top:25px;
+}
+.header-text{
+
+    margin-top:270px;
+    padding-right: 20px;
+    text-align:right;
+}
+.tomy{
+
+    font-family: 'Amatic SC', cursive;
+    font-size: 64px;
+    color:whitesmoke;
+    float:right;
+    margin-top: 2px;
+    font-weight: 800;
+    margin-left:40px;
+    margin-top: 50px;
+
+
+}
+
+.inner-bg {
+    padding: 40px 0 170px 0;
+}
+
+.top-content .text {
+    color: #fff;
+}
+
+.top-content .text h1 { color: #fff; }
+
+.top-content .description {
+    margin: 20px 0 10px 0;
+}
+
+.top-content .description p { opacity: 0.8; }
+
+.top-content .description a {
+    color: #fff;
+}
+.top-content .description a:hover,
+.top-content .description a:focus { border-bottom: 1px dotted #fff; }
+
+.top-content .top-big-link {
+    margin-top: 35px;
+}
+.form-box {
+    padding-top: 40px;
+}
+
+.form-top {
+    overflow: hidden;
+    padding: 0 25px 15px 25px;
+    background: #444;
+    background: rgba(0, 0, 0, 0.35);
+    -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0;
+    text-align: left;
+}
+
+.form-top-left {
+    float: left;
+    width: 75%;
+    padding-top: 25px;
+}
+
+.form-top-left h3 { margin-top: 0; color: #fff; }
+.form-top-left p { opacity: 0.8; color: #fff; }
+
+.form-top-right {
+    float: left;
+    width: 25%;
+    padding-top: 5px;
+    font-size: 66px;
+    color: #fff;
+    line-height: 100px;
+    text-align: right;
+    opacity: 0.3;
+}
+
+.form-bottom {
+    padding: 25px 25px 30px 25px;
+    background: #444;
+    background: rgba(0, 0, 0, 0.3);
+    -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;
+    text-align: left;
+}
+
+.form-bottom form textarea {
+    height: 100px;
+}
+
+.form-bottom form .input-error {
+    border-color: #19b9e7;
+}
+
+.form-bottom p { opacity: 0.8; color: #fff; }
+h3 {
+    font-size: 22px;
+    font-weight: 300;
+    color: #555;
+    line-height: 30px;
+}
+#contact-email{
+
+    position:center;
+    text-align:center;
+}
+
+
+
+
