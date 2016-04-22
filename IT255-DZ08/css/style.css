@@ -1,0 +1,34 @@
+.image-bg-fluid-height {
+ height: 450px;
+
+}
+.section-heading{
+
+text-align: center;
+
+}
+.lead{
+
+text-align:center;
+}
+.section-paragraph{
+text-align:center;
+
+}
+#naslov{
+border-bottom: thick dotted #992600;
+}
+.col-sm-6{
+
+	text-align: center;
+
+}
+.img-responsive{
+border-radius:50px;
+}
+.thumbnail{
+border:0px;
+}
+#stagod{
+padding: 15px 0px;
+}
